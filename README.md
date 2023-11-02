@@ -14,6 +14,8 @@ This is the first responsive design project that we have completed here at Tripl
 
 This project involved use of html and css just like the first two projects, in addition to html and css we were introduced to FIGMA which is a very handy application when designing webpages. Other skills that were used in this project include grid and media queries.
 
+Link to project on Github: (https://github.com/lseller7/se_project_aroundtheus)
+
 **Figma**
 
 - [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)
