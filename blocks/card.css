@@ -50,6 +50,8 @@
   width: 21px;
   height: 18px;
   border: none;
+  display: flex;
+  flex-shrink: 0;
 }
 
 .card__like-button:hover {

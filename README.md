@@ -14,6 +14,8 @@ This is the first responsive design project that we have completed here at Tripl
 
 This project involved use of html and css just like the first two projects, in addition to html and css we were introduced to FIGMA which is a very handy application when designing webpages. Other skills that were used in this project include grid and media queries.
 
+Link to github-pages service: (https://lseller7.github.io/se_project_aroundtheus/)
+
 Link to project on Github: (https://github.com/lseller7/se_project_aroundtheus)
 
 **Figma**
